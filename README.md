@@ -13,6 +13,9 @@ No fake testimonials. Every entry includes the **exact verbatim quote**, **buyin
 ## Latest Issue
 - [Issue #01 (2026-11-27): Datadog 2x Renewal Shock, HubSpot Trial Fatigue, Parallels & Airtable Churn](./ISSUE_01_2026-11-27.md)
 
+## Weekly Reports & Intel
+- [🚨 Special Issue 01: Instantly & Lemlist Deliverability Collapse & Churn Intel (5 Verified Leads)](reports/special_issue_01.md)
+
 ## Pain Categories Tracked
 - `switching_now`: Subscription expired, canceled, or actively shortlisting alternatives.
 - `pricing`: Renewal hikes, hidden fees, or forced tier upgrades.
